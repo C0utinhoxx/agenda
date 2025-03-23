@@ -1,0 +1,20 @@
+/* Estilos globais básicos */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilos adicionais para a aplicação */
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Você pode mover os estilos do Agenda.vue para cá, se preferir */
+  .activity {
+    background-color: yellow;
+  }
+  
+  .free-slot {
+    background-color: green;
+  }
